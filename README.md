@@ -1,5 +1,7 @@
 # Node-convict
 
+## Convict without moment.js -> no timestamp and duration feature
+
 [![NPM version](http://img.shields.io/npm/v/convict.svg)](https://www.npmjs.org/package/convict)
 [![Dependency Status](https://david-dm.org/mozilla/node-convict.svg)](https://david-dm.org/mozilla/node-convict)
 [![devDependency Status](https://david-dm.org/mozilla/node-convict/dev-status.svg)](https://david-dm.org/mozilla/node-convict#info=devDependencies)
